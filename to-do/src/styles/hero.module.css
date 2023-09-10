@@ -1,0 +1,7 @@
+.hero {
+<<<<<<< HEAD
+    box-shadow: rgba(60, 69, 67, 90) 8px 8px;
+=======
+    box-shadow: rgba(60,69,67, 0.3) 8px 8px;
+>>>>>>> d98c3b1224db35e2f06944612267ae9f6d14f71f
+}
